@@ -486,11 +486,7 @@ footer .socials_link img {
 }
 
 @media screen and (max-width: 768px) {
-    .interactive img {
-    width: 75%;
-    margin-left: auto;
-    margin-right: auto;
-  }
+
   .container {
     padding: 0 4rem;
   }
@@ -519,13 +515,10 @@ footer .socials_link img {
   }
 }
 @media screen and (max-width: 576px) {
-   .interactive_img{
+  .interactive img {
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
-  }
-  .interactive_img img {
-    width: 100%;
-    max-width: 30rem;
   }
   .container {
     padding: 0 2.5rem;
