@@ -528,6 +528,10 @@ footer .socials_link img {
   }
   header {
     height: 62rem;
+    
+  }
+  .navbar_wrapper {
+  padding-top: 4rem;
   }
   .hamburger_logo img {
     width: 15rem;
