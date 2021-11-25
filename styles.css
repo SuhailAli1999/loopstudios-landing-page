@@ -531,7 +531,10 @@ footer .socials_link img {
     
   }
   .navbar_wrapper {
-  padding-top: 4rem;
+    padding-top: 4rem;
+  }
+  .header_hamburger {
+    padding: 4rem 0 30px 0;
   }
   .hamburger_logo img {
     width: 15rem;
